@@ -19,7 +19,7 @@ PRODUCT_NAME := aosp_salaa
 PRODUCT_DEVICE := salaa
 PRODUCT_MANUFACTURER := realme
 PRODUCT_BRAND := realme
-PRODUCT_MODEL := realme 7/Narzo 20 Pro/Narzo 30 4G
+PRODUCT_MODEL := realme salaa
 
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
